@@ -1,4 +1,4 @@
-# daily_steps
+# daily_Step_Counter-APP
 <p align="center"><img src="screenshot.png"/></p>
 
  This is a Flutter app sample that demonstrates tracking daily steps in Flutter.
